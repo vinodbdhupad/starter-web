@@ -1,2 +1,6 @@
 File created and line added in master branch
+<<<<<<< HEAD
 Line added in master branch after feature branch commit
+=======
+line added in featureBranch and committed
+>>>>>>> line added in featureBranch and committed
