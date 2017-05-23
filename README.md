@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Concepts
 
 ## Deployment
+
+## Copyright
+
+copyright reserved 2017
